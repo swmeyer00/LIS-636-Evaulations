@@ -14,10 +14,3 @@ p {
 h3 {
 	text-decoration: underline
 }
-.center {
-	display: block;
-  	margin-left: auto;
-	margin-right: auto;
-	width: 40%;
-	figcaption: center;
-}
